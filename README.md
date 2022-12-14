@@ -35,7 +35,7 @@ Password reset token does not expire (Insecure Configuration)
 
 Server security misconfiguration
 
->> Lack of security headers -> Cache control for a security page
+Lack of security headers -> Cache control for a security page
 
 1) Login and navigate around some pages.
 2) Logout the application.

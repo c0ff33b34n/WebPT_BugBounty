@@ -32,3 +32,14 @@ Password reset token does not expire (Insecure Configuration)
 4) If password is changed, it's a bug!! (small one)
 
 ## Case 4:
+
+Server security misconfiguration
+
+>> Lack of security headers -> Cache control for a security page
+
+1) Login and navigate around some pages.
+2) Logout the application.
+3) Press Alt + Left-arrow.
+4) If you are again logged in or can view pages navigated by the user. It's a bug!! (again small one XD) Also check if you are able to change the password.
+
+<loading...>

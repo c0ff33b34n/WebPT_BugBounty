@@ -10,7 +10,7 @@
 8) Function Default Visibility
 9) Outdated Compiler Version
 10) Unchecked Call Return Value
-11)Unprotected Ether Withdrawal
+11) Unprotected Ether Withdrawal
 12) Unprotected Selfdestruct Instruction
 13) State Variable Default Visibility
 14) Uninitialized Storage Pointer

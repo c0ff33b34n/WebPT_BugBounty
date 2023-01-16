@@ -1,4 +1,4 @@
-##List of Smart Contract Vulnerabilities:
+## List of Smart Contract Vulnerabilities:
 
 1) Forcibly Sending Ether to a Smart Contract
 2) Insufficient Gas Griefing

@@ -20,29 +20,3 @@ A09:2021 Security Logging and Monitoring Failures
 
 A10:2021 Server-Side Request Forgery
 
-
-
-### 2019 Version:
-
-A1 – Injection
-
-A2 – Broken Authentication and Session Management
-
-A3 – Cross-Site Scripting (XSS)
-
-A4 – Broken Access Control
-
-A5 – Security Misconfiguration
-
-A6 – Sensitive Data Exposure
-
-A7 - Insufficient Attack Protection
-
-A8 - Cross-Site Request Forgery (CSRF)
-
-A9 – Using Components with Known Vulnerabilities
-
-A10 – Underprotected APIs
-
-
-

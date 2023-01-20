@@ -1,2 +1,2 @@
 # WebPT_BugBounty
-Bits for Web PT and Bug Bounty
+Bits for Web PT & Bug Bounty

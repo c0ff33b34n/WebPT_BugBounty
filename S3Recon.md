@@ -50,4 +50,4 @@ Sometimes you find Amazon bucket in Content-Security-Policy Response headers
 
 # Method 7:
 
-Online Websites https://buckets.grayhatwarfare.com/
+Online Websites: https://buckets.grayhatwarfare.com/

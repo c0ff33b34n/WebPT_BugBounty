@@ -5,9 +5,7 @@ S3 RECON TIPS:
 Use this google dorks for finding s3 bucket
 site: s3.amazonaws.com <site.com>
 
-# Method 2:Github Dorks
-
-By @hunter0x7, @GodfatherOrwa
+# Method 2: Github Dorks
 
 org:Target "bucket_name"
 

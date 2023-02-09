@@ -37,11 +37,11 @@ Almost all tools are command-line tools, You have can clone them from GitHub.
 
 # Method 4:
 
-Use the BURP Suite and spider the target web application. BURP Spider can extract the Amazon bucket of the target web application.
+Use the Burp Suite and spider the target web application. Burp Spider can extract the Amazon bucket of the target web application.
 
 # Method 5:
 
-Right-click on any image of the target application and open image in new tab. If the image URL looks like this:http://xyz.s3.amazonaws.com/images/b1.gif
+Right-click on any image of the target application and open image in new tab. If the image URL looks like this: http://xyz.s3.amazonaws.com/images/b1.gif
 It means the target application is storing their data to the Amazon server and the bucket name is “xyz”. Anything before “.s3” in the URL is the bucket name of the target application.
 
 # Method 6:
